@@ -1,0 +1,21 @@
+page-home {
+    h2.home_title{
+        color:#abb0ba; 
+        font-weight:bold; 
+        text-align: center;
+    }
+    button.btn{
+        margin: auto;
+        display: block;
+        margin-bottom: 20px;
+        width: 35%;
+        height: 45px;
+        border-radius: 9px;
+        font-size: 15px;
+        font-weight:bold;
+        color: rgb(63, 13, 46);
+    }
+    button.btn:hover{
+        color: #FFF;
+    }
+}
