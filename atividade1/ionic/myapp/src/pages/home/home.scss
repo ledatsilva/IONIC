@@ -1,8 +1,19 @@
 page-home {
+    ion-content{
+    background:#abb0ba !important;
+    img{
+        margin:auto;
+        display:block;
+        width: 100px;
+        height:auto;}
+    }
     h2.home_title{
-        color:#abb0ba; 
+        color:#c9f1fd; 
         font-weight:bold; 
         text-align: center;
+    }
+    .botão{
+        padding-top:20px;
     }
     button.btn{
         margin: auto;
