@@ -1,0 +1,23 @@
+page-home {
+    ion-content{
+        background: lightpink !important;
+        img{
+            margin:auto;
+            display:block;
+            width: 450px;
+            height:auto;
+            }
+        }
+        .botão{
+            padding-top:20px;
+        }
+        button.btn{
+            margin: auto;
+            display: block;
+            margin-bottom: 20px;
+            border-radius: 9px;
+            font-size: 15px;
+            font-weight:bold;
+            color:#FFF;
+        }
+}

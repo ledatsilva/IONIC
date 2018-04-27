@@ -1,0 +1,20 @@
+page-formulario {
+    ion-content{
+        background: lightpink !important;
+        }
+        .botão{
+            padding-top:20px;
+        }
+        button.btn{
+            margin: auto;
+            display: block;
+            margin-bottom: 20px;
+            border-radius: 9px;
+            font-size: 15px;
+            font-weight:bold;
+            color:#FFF;
+        }
+        .item{
+            background: lightpink;
+        }
+}
